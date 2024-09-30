@@ -1,0 +1,18 @@
+[
+  {
+    "icon": "/svg/hospital_bed.png",
+    "description": "Hospitalización y atención personalizada."
+  },
+  {
+    "icon": "/svg/stethoscope.png",
+    "description": "Exámenes y citas con atención específica y especializada."
+  },
+  {
+    "icon": "/svg/syringe.png",
+    "description": "Vacunación e inyectología con seguimiento médico."
+  },
+  {
+    "icon": "/svg/blood_icon.png",
+    "description": "Laboratorio, toma de pruebas y análisis de muestras."
+  }
+]
